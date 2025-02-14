@@ -1,4 +1,3 @@
-/*************  ✨ Codeium Command ⭐  *************/
 from playwright.sync_api import Page
 
 class RegisterPage:
@@ -59,4 +58,3 @@ class RegisterPage:
 
     def click_submit_button(self):
         self.page.click('#submitbtn')
-/******  3bb702d6-1bb7-4b57-a954-72390da47799  *******/
