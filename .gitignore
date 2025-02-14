@@ -1,1 +1,26 @@
+# Virtual Environment
 venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# pytest cache
+.pytest_cache/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
